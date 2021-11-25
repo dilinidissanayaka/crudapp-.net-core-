@@ -1,0 +1,66 @@
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\bin\Debug\netcoreapp2.1\crudf.deps.json
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\bin\Debug\netcoreapp2.1\crudf.runtimeconfig.json
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\bin\Debug\netcoreapp2.1\crudf.runtimeconfig.dev.json
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\bin\Debug\netcoreapp2.1\crudf.dll
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\crudf.csprojAssemblyReference.cache
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\crudf.csproj.CoreCompileInputs.cache
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\crudf.RazorAssemblyInfo.cache
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\crudf.RazorAssemblyInfo.cs
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\crudf.AssemblyInfoInputs.cache
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\crudf.AssemblyInfo.cs
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\crudf.TagHelpers.input.cache
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\crudf.TagHelpers.output.cache
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\crudf.RazorCoreGenerate.cache
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\crudf.RazorTargetAssemblyInfo.cache
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\crudf.RazorTargetAssemblyInfo.cs
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\bin\Debug\netcoreapp2.1\crudf.pdb
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\bin\Debug\netcoreapp2.1\crudf.Views.dll
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\bin\Debug\netcoreapp2.1\crudf.Views.pdb
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\crudf.Views.pdb
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\crudf.dll
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\crudf.pdb
+C:\Users\Dilini Dissanayaka\source\repos\crudf\crudf\obj\Debug\netcoreapp2.1\crudf.csproj.CopyComplete
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\crudf.csprojAssemblyReference.cache
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\crudf.csproj.CoreCompileInputs.cache
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\crudf.RazorAssemblyInfo.cache
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\crudf.RazorAssemblyInfo.cs
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\crudf.AssemblyInfoInputs.cache
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\crudf.AssemblyInfo.cs
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\crudf.dll
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\crudf.pdb
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\bin\Debug\netcoreapp2.1\crudf.deps.json
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\bin\Debug\netcoreapp2.1\crudf.runtimeconfig.json
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\bin\Debug\netcoreapp2.1\crudf.runtimeconfig.dev.json
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\bin\Debug\netcoreapp2.1\crudf.dll
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\bin\Debug\netcoreapp2.1\crudf.pdb
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\bin\Debug\netcoreapp2.1\crudf.Views.dll
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\bin\Debug\netcoreapp2.1\crudf.Views.pdb
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\crudf.TagHelpers.input.cache
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\crudf.TagHelpers.output.cache
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\crudf.RazorCoreGenerate.cache
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\crudf.RazorTargetAssemblyInfo.cache
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\crudf.RazorTargetAssemblyInfo.cs
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\crudf.Views.pdb
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\crudf.csproj.CopyComplete
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Create.g.cshtml.cs
+C:\Users\Dilini Dissanayaka\Desktop\e vision\crudf2\crudf\obj\Debug\netcoreapp2.1\Razor\Views\Home\Edit.g.cshtml.cs

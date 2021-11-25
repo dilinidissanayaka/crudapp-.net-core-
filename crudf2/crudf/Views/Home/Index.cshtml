@@ -1,0 +1,55 @@
+﻿
+@model List<Customer>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="text-center">
+   <c><h1 class="display-4">Welcome</h1></c> 
+    <h1 class="display-4">Customer detail</h1>
+    <br />
+</div>
+<br />
+<h2>customers</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>CustomerId</th>
+            <th>FullName</th>
+            <th>CusCode</th>
+            <th>Address</th>
+            <th>edit</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cus in Model)
+        {
+            <tr>
+                <td>@cus.CustomerId</td>
+                <td>@cus.FullName</td>
+                <td>@cus.CusCode</td>
+                <td>@cus.Location</td>
+                <td>
+
+                    @Html.ActionLink("Edit", "Edit", new { id = cus.CustomerId }, new { @class = "btn btn-success" })
+
+                    @Html.ActionLink("Delete", "Delete", new { id = cus.CustomerId }, new { @class = "btn btn-danger" })
+
+
+
+                </td>
+            </tr>
+
+        }
+      @Html.ActionLink("Create", "Create", new { @class = "btn btn-danger" })
+
+    </tbody>
+
+</table>
+
+
+
+
